@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/fofofeng" target="blank"><img src="https://img.shields.io/twitter/follow/fofofeng?logo=twitter&style=for-the-badge" alt="fofofeng" /></a> </p>
 
-- 🌱 I’m currently learning **Hadoop**
+- 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **NodeJS, C#, Electron, Html, CSS**
 
