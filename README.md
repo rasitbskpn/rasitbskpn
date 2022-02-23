@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **NodeJS, C#, Electron, Html, CSS**
+- 💬 Ask me about **NodeJS, TSql, PostgreSql, MySql, C#, Electron, Html, CSS**
 
 - 📫 How to reach me **rasitbaskapan@gmail.com**
 
