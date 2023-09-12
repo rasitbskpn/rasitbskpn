@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Nodejs, Python**
 
-- 💬 Ask me about **NodeJS, TSql, PostgreSql, MySql, Electron, Html, CSS**
+- 💬 Ask me about **NodeJS, NestJs, Sql, Electron, Html, CSS**
 
 - 📫 How to reach me **rasitbaskapan@gmail.com**
 
